@@ -24,7 +24,7 @@ The aDeal Network thrives on community contributions. Whether you're fixing bugs
 
 Join our vibrant community to discuss the aDeal Network, share ideas, and get help:
 
-- **Discord**: Our Discord server is the best place to engage with the development team and the community.
+- **Discord**: Our Discord server [aDeal Network](https://discord.gg/D4UT3ZyUAE) is the best place to engage with the development team and the community.
 - **Twitter**: Follow us on Twitter [@aDealNetwork](https://twitter.com/adealnetwork) for the latest updates and announcements.
 
 ## License
